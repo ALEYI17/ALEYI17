@@ -47,12 +47,18 @@ I am a passionate software developer with experience in full-stack development, 
 - **CNCF**: [Alejandro Salamanca](https://openprofile.dev/profile/alejandrosalamanca17)
 - **Docker Hub**: [alejandrosalamanca17](https://hub.docker.com/u/alejandrosalamanca17)
 
-### 🏅 Badges
+## 🏅 Badges
 
 Here are some of the badges I have earned:
 
-[![AWS Academy Cloud Architecting](https://github.com/ALEYI17/imagesProfile/blob/main/aws-academy-graduate-aws-academy-cloud-architecting.png)](https://www.credly.com/badges/84f2cec8-8e51-48de-a1eb-26f0c7f8a620/public_url)
+<a href="https://www.credly.com/badges/84f2cec8-8e51-48de-a1eb-26f0c7f8a620/public_url" target="_blank">
+  <img src="https://github.com/ALEYI17/imagesProfile/blob/main/aws-academy-graduate-aws-academy-cloud-architecting.png" alt="AWS Academy Cloud Architecting" width="100"/>
+</a>
 
-[![AWS Academy Cloud Foundations](https://github.com/ALEYI17/imagesProfile/blob/main/aws-academy-graduate-aws-academy-cloud-foundations.png)](https://www.credly.com/badges/e3feed0f-d187-4a5e-82cf-6a4048d8bcb9/public_url)
+<a href="https://www.credly.com/badges/e3feed0f-d187-4a5e-82cf-6a4048d8bcb9/public_url" target="_blank">
+  <img src="https://github.com/ALEYI17/imagesProfile/blob/main/aws-academy-graduate-aws-academy-cloud-foundations.png" alt="AWS Academy Cloud Foundations" width="100"/>
+</a>
 
-[![Introduction to Cybersecurity](https://github.com/ALEYI17/imagesProfile/blob/main/introduction-to-cybersecurity.png)](https://www.credly.com/badges/6d2c73fb-1504-44c9-9ab2-7f82ae71ec4e/public_url)
+<a href="https://www.credly.com/badges/6d2c73fb-1504-44c9-9ab2-7f82ae71ec4e/public_url" target="_blank">
+  <img src="https://github.com/ALEYI17/imagesProfile/blob/main/introduction-to-cybersecurity.png" alt="Introduction to Cybersecurity" width="100"/>
+</a>
