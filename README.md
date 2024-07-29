@@ -51,6 +51,4 @@ I am a passionate software developer with experience in full-stack development, 
 
 Here are some of the badges I have earned:
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="e3feed0f-d187-4a5e-82cf-6a4048d8bcb9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
-
+[![Badge](https://images.credly.com/size/110x110/images/e3feed0f-d187-4a5e-82cf-6a4048d8bcb9.png)](https://www.credly.com/badges/e3feed0f-d187-4a5e-82cf-6a4048d8bcb9/public_url)
