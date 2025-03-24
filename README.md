@@ -30,18 +30,8 @@ A passionate software engineer focused on building cloud-native applications wit
 - **Email**: aleelaleyi@gmail.com
 - **LinkedIn**: [Alejandro Salamanca](https://www.linkedin.com/in/alejandro-salamanca/)
 
-## 🏅 Badges
+## 🌐 Visit My Website  
 
-Here are some of the badges I have earned:
+Check out my personal website where I share blogs on cloud-native technologies, DevOps, and software engineering:  
 
-<a href="https://www.credly.com/badges/84f2cec8-8e51-48de-a1eb-26f0c7f8a620/public_url" target="_blank">
-  <img src="https://github.com/ALEYI17/imagesProfile/blob/main/aws-academy-graduate-aws-academy-cloud-architecting.png" alt="AWS Academy Cloud Architecting" width="100"/>
-</a>
-
-<a href="https://www.credly.com/badges/e3feed0f-d187-4a5e-82cf-6a4048d8bcb9/public_url" target="_blank">
-  <img src="https://github.com/ALEYI17/imagesProfile/blob/main/aws-academy-graduate-aws-academy-cloud-foundations.png" alt="AWS Academy Cloud Foundations" width="100"/>
-</a>
-
-<a href="https://www.credly.com/badges/6d2c73fb-1504-44c9-9ab2-7f82ae71ec4e/public_url" target="_blank">
-  <img src="https://github.com/ALEYI17/imagesProfile/blob/main/introduction-to-cybersecurity.png" alt="Introduction to Cybersecurity" width="100"/>
-</a>
+🔗 [aleyi17.github.io](https://aleyi17.github.io)
